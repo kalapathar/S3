@@ -26,10 +26,13 @@ patterns.
 
 
 
-Example: 
-![alt text][logo]
+##Example: 
+
 
 [logo]: https://github.com/kalapathar/S3/blob/master/D1.PNG "Logo Title Text 2"
+
+![alt text][logo]
+
 
 ```
 This is an example:
