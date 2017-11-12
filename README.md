@@ -26,7 +26,7 @@ patterns.
 
 
 
-##Example: 
+## Example: 
 
 
 [logo]: https://github.com/kalapathar/S3/blob/master/D1.PNG "Logo Title Text 2"
