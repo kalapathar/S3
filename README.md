@@ -27,6 +27,6 @@ Python Modules: operator,itertools,collections,random,time
 
 ```
 This is an example:
-Suppose we want to categorise all patterns for this matrix ![alt text](http://url/to/img.png)
+Suppose we want to categorise all patterns for this matrix ![alt text](https://github.com/kalapathar/S3/blob/master/m_d1.PNG)
 
 ```
