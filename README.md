@@ -25,8 +25,15 @@ patterns.
 2. Python Modules: operator,itertools,collections,random,time
 
 
+
+Example: 
+![alt text][logo]
+
+[logo]: https://github.com/kalapathar/S3/blob/master/D1.PNG "Logo Title Text 2"
+
 ```
 This is an example:
 Suppose we want to categorise all patterns for this matrix![alt text](https://github.com/kalapathar/S3/blob/master/m_d1.PNG)
+(https://github.com/kalapathar/S3/blob/master/D1.PNG)
 
 ```
