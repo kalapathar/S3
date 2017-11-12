@@ -21,12 +21,12 @@ patterns.
 
 
 ### Prerequisites
-Sagemath (Python built)
-Python Modules: operator,itertools,collections,random,time
+1. Sagemath (Python built)
+2. Python Modules: operator,itertools,collections,random,time
 
 
 ```
 This is an example:
-Suppose we want to categorise all patterns for this matrix Inline-style: ![alt text](https://github.com/kalapathar/S3/blob/master/m_d1.PNG)
+Suppose we want to categorise all patterns for this matrix![alt text](https://github.com/kalapathar/S3/blob/master/m_d1.PNG)
 
 ```
