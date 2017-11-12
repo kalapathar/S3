@@ -17,7 +17,7 @@ eigenvalues. We also present a theorem for the extension of our work beyond 3×3
 patterns.
 
 
-## This repository contains the (script) [https://github.com/kalapathar/S3/blob/master/categorise_s3.py] to categorise all 3 X 3 sign patterns. 
+## This repository contains the [script](https://github.com/kalapathar/S3/blob/master/categorise_s3.py) to categorise all 3 X 3 sign patterns. 
 
 
 ### Prerequisites
@@ -27,6 +27,6 @@ Python Modules: operator,itertools,collections,random,time
 
 ```
 This is an example:
-Suppose we want to categorise all patterns for this matrix ![alt text](https://github.com/kalapathar/S3/blob/master/m_d1.PNG)
+Suppose we want to categorise all patterns for this matrix Inline-style: ![alt text](https://github.com/kalapathar/S3/blob/master/m_d1.PNG)
 
 ```
