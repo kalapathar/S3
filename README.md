@@ -29,14 +29,16 @@ patterns.
 ## Example: 
 
 
-[logo]: https://github.com/kalapathar/S3/blob/master/D1.PNG "Logo Title Text 2"
+[graph]: https://github.com/kalapathar/S3/blob/master/D1.PNG "Logo Title Text 2"
 
-![alt text][logo]
+![alt text][graph]
 
+![alt text](https://github.com/kalapathar/S3/blob/master/m_d1.PNG)
 
+Suppose we want to categorise all patterns for this graph which its equivalent matrix under the graph. Code:
 ```
-This is an example:
-Suppose we want to categorise all patterns for this matrix![alt text](https://github.com/kalapathar/S3/blob/master/m_d1.PNG)
-(https://github.com/kalapathar/S3/blob/master/D1.PNG)
+
+input_matrix=matrix(SR,[[a,b,0],[0,c,d],[e,0,f]])
+D1=S3(input_matrix,6) #6 is the number of nonzeros in the matrix
 
 ```
