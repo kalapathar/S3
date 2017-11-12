@@ -42,3 +42,6 @@ input_matrix=matrix(SR,[[a,b,0],[0,c,d],[e,0,f]])
 D1=S3(input_matrix,6) #6 is the number of nonzeros in the matrix
 
 ```
+Then D1.categorised will contain a list of lists that has the matrices categorised and D1 will plot the graphs which then can be used to see if the matrix allows S3 or not.
+
+If you have further questions/comments, please email me at shah2 at stolaf.edu
